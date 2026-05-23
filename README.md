@@ -1,3 +1,4 @@
 # easy_login_systems
 some easy login systems
 这里有几个版本的简单flask登陆系统
+post方式可能不太好传参，当时在了解json所以有的就用了json传参。可能需要用hackbar或者postman来传参比较合适。推荐postman，hackbar传json有的时候会失效
