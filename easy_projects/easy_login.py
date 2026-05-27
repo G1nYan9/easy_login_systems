@@ -1,4 +1,5 @@
 #用GET方式做到一个最简单的登录系统
+#git_test
 from flask import Flask,json,request
 app=Flask(__name__)
 def get_user_info():
